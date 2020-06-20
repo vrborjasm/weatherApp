@@ -15,9 +15,16 @@
   <li>APIs</li>
 </ul>
 <h2>Installation</h2>
-<p>npm install</p>
+
+```
+npm install
+```
+
 <h2>Run the project</h2>
-<p>npm run start</p>
+
+```
+npm run start
+```
 <h2>Previews</h2>
 
 ![](preview/preview.png)
